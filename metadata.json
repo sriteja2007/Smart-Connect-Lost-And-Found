@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect Lost & Found",
+  "description": "Enterprise-grade lost and found platform for university campuses, featuring smart matching, real-time chat, claim management, interactive loss/found maps, and administrator analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
